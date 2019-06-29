@@ -1,0 +1,135 @@
+#xd{ 
+    float: right;  
+    margin-top: 4em;
+    margin-right: 4em;
+    padding-left: 4em;
+    
+    
+} 
+header{
+    background: red;
+} 
+
+#img{ 
+    margin-left: 4em;
+    padding: 1em;
+} 
+ul{
+    list-style: none;
+    list-style-image: none;
+    
+   
+ } 
+ li{
+    display: inline;
+    border:2px solid white;
+    margin-left: 1px;
+    padding: 10px 10px 10px 10px;
+    
+}
+
+a{
+     text-decoration: none;
+     margin-right: 2em;
+     color: white;
+     
+    
+}
+nav{ 
+    float: right;
+   text-align: center;
+   margin-top: 6em;
+   margin-left: 9em;
+} 
+aside{
+    float: right;
+    float: right; 
+ } 
+ #h1{
+    background: red;
+     color: white;
+
+  } 
+  p{
+    text-align: center;
+    margin:1em;
+    
+} 
+#ss{
+    display:list-item; 
+    
+} 
+ 
+#ds{
+    border: 1px solid gainsboro;
+    margin-top: -1.3em;
+} 
+#ls{
+    padding-top:7em;
+    text-align: center;
+} 
+#lopz{
+    
+    padding-left: 15em;
+    padding-right: 6em;
+    padding-top: 2em;
+
+}
+#lazzi{
+    padding-top:2em;
+    padding-left: 2em;
+}
+#za{ 
+    padding-top: 3em; 
+    color:red;
+    padding-left: 1em;
+} 
+#mod{
+  color: red; 
+  
+}
+#yop{
+    margin-top: 2em;
+  
+  }
+  h2{ 
+      color: red;  
+}
+button{
+    margin-left: 1em;
+}
+table{
+    float: left;
+}
+td tr{
+    margin-left: 8em;
+    margin-top: 5em;
+
+}
+#but {
+    float: left;
+    margin-left:70em;
+    margin-top: -6em;
+    padding: 1.5em 1.5em 1.5em 1.5em;
+    color: black;
+    background: red;
+}
+footer{ 
+    margin-top: 7em;
+    background: red;
+    padding: 4em 4em 4em 4em;
+    
+} 
+#ep{
+    float: left;
+    margin-top: 1.5em;
+  }
+  #es{
+    text-align: center;
+   
+  }
+  #er{
+    float: right;
+    margin-top:-2em;
+  
+  }
